@@ -7,12 +7,7 @@ Face attendance system using face recognition with Python !
 
 ## Spoofing feature
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=_KvtVk8Gk1A">
-    <img width="600" src="https://utils-computervisiondeveloper.s3.amazonaws.com/thumbnails/with_play_button/face_attendance_spoofing.jpg" alt="Watch the video">
-    </br>Watch on YouTube: Face attendance system with liveness detection !
-</a>
-</p>
+
 
 ## execution
 
